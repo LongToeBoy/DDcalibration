@@ -1,0 +1,22 @@
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\Dayton Digital Calibration.exe.config
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\Dayton Digital Calibration.exe
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\Dayton Digital Calibration.pdb
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\obj\Debug\Dayton Digital Calibration.csprojAssemblyReference.cache
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\obj\Debug\Dayton_Digital_Calibration.Form1.resources
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\obj\Debug\Dayton_Digital_Calibration.Properties.Resources.resources
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\obj\Debug\Dayton Digital Calibration.csproj.GenerateResource.cache
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\obj\Debug\Dayton Digital Calibration.exe
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\obj\Debug\Dayton Digital Calibration.pdb
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\obj\Debug\Dayton_Digital_Calibration.NewDevice.resources
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\obj\Debug\Dayton_Digital_Calibration.view_device.resources
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\obj\Debug\Dayton Digital Calibration.csproj.CopyComplete
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\HtmlRenderer.dll
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\HtmlRenderer.PdfSharp.dll
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\PdfSharp.dll
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\HtmlRenderer.pdb
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\HtmlRenderer.PdfSharp.pdb
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\PdfSharp.xml
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Dayton Lenovo Server\source\repos\Dayton Digital Calibration\Dayton Digital Calibration\bin\Debug\de\PdfSharp.Charting.resources.dll
